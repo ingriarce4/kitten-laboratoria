@@ -1,0 +1,24 @@
+@media (min-width: 1051px) and (max-width: 1280px){
+	body{
+		background-image: url(../img/Landscape.jpg);
+		background-size: 100%;
+
+	}
+
+}
+
+@media (min-width: 551px) and (max-width: 1050px){
+	body{
+		background-image: url(../img/dawn.png);
+		
+	}
+
+}
+
+@media (min-width: 1px) and (max-width: 550px){
+	body{
+		background-image: url(../img/maxresdefault.jpg);
+
+	}
+
+}
